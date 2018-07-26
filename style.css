@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+}
+
+#app {
+    visibility: hidden;
+}
+
+h1 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+hr {
+    border-bottom: 3px solid #808080;
+}
+
+table {
+    margin: 10px auto 0;
+}
+
+table > thead > tr > th {
+    padding: 10px;
+}
+
+table > thead > tr > th:nth-child(odd) {
+    background: linear-gradient(#ffffff, #e1e1e1);
+    color: #808080;
+}
+
+table > thead > tr > th:nth-child(even) {
+    background: linear-gradient(#808080, #626262);
+    color: #ffffff;
+}
+
+table > tbody > tr > td {
+    padding: 10px;
+}
+
+table > tbody > tr > td > button {
+    margin-right: 10px;
+}
+
+table > tbody > tr > td > button:last-child {
+    margin-right: 0;
+}
+
+table > tbody > tr:nth-child(odd) > td:nth-child(odd) {
+    background: linear-gradient(#808080, #626262);
+    color: #ffffff;
+}
+
+table > tbody > tr:nth-child(odd) > td:nth-child(even) {
+    background: linear-gradient(#ffffff, #e1e1e1);
+    color: #808080;
+}
+
+table > tbody > tr:nth-child(even) > td:nth-child(odd) {
+    background: linear-gradient(#ffffff, #e1e1e1);
+    color: #808080;
+}
+
+table > tbody > tr:nth-child(even) > td:nth-child(even) {
+    background: linear-gradient(#808080, #626262);
+    color: #ffffff;
+}
+
+input[type=text], input[type=number] {
+    border-color: blue;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px 5px 5px 3px;
+    display: block;
+    font-weight: bold;
+    height: 30px;
+    margin: 0 auto;
+}
+
+button {
+    background: linear-gradient(#800080, #710071);
+    border-radius: 6px;
+    border-style: none;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+}
+
+.caption {
+    background: linear-gradient(#caccce, #accbcd);
+    color: white;
+}
+
+.data-container {
+    color: red;
+    overflow: hidden;
+}
+
+.data-container > h1 {
+    font-size: 1em;
+    text-align: center;
+}
+
+.data-container > button {
+    display: block;
+    margin: 10px auto;
+}
+
+.form {
+    padding: 10px 0;
+}
+
+.action {
+    margin: 0 auto;
+    width: 340px;
+}
+
+.action > button {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.action > button:last-child {
+    margin-right: 10px;
+}
+
+#city-form, #survey-data-form {
+    display: none;
+}
+
+#city-list, #survey-data, #city-form, #survey-data-form {
+    background: linear-gradient(to bottom right, #808080, #aaaaaa);
+}
+
+button:hover {
+    background: linear-gradient(#710071, #650065);
+    cursor: pointer;
+}
+
+button:disabled:hover {
+    cursor: not-allowed;
+}
