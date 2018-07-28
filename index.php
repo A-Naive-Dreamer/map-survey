@@ -77,7 +77,7 @@
 			</div>
 			<script src="/map-survey/functions.js">
 			</script>
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtre3EVyQkklWtuI35G35zshXdoOkf4qE&callback=createMap" async defer>
+			<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=createMap" async defer>
 			</script>
 		</div>
 	</body>
