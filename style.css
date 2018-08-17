@@ -98,7 +98,7 @@ button {
 
 .data-container {
     color: red;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .data-container > h1 {
