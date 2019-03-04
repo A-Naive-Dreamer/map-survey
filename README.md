@@ -22,19 +22,19 @@ Web app for create survey based on location, this is still in beta version and w
 
 ### Prerequisites
 
-1. xampp-7.2.6
+1. XAMPP 7.2.6
 
 ### Installation
 
-1. Extract ```map-survey-master.zip``` in your Apache server root directory, Example ```C:\xampp\htdocs```
-2. Rename folder ```map-survey-master``` to ```map-survey```
-3. Create database ```map_survey``` in phpmyadmin
-4. Import ```map_survey.sql``` file from directory ```C:\xampp\htdocs\map-survey``` to database ```map_survey```
+1. Extract ```map-survey-master.zip``` in your Apache server root directory, Example ```C:\xampp\htdocs```.
+2. Rename folder ```map-survey-master``` to ```map-survey```.
+3. Create database ```map_survey``` in phpmyadmin.
+4. Import ```map_survey.sql``` file from directory ```C:\xampp\htdocs\map-survey``` to database ```map_survey```.
 
 ### Usage
 
-1. Type ```http://localhost/map-survey``` in your browser url field (I recommended you to use Mozilla Firefox)
-2. You will take automatically to [main page](http://localhost/map-survey) of app
+1. Type ```http://localhost/map-survey``` in your browser url field (I recommended you to use Mozilla Firefox).
+2. You will take automatically to [main page](http://localhost/map-survey) of app.
 
 ### Previews
 
