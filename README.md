@@ -9,18 +9,17 @@ Web app for create survey based on location, this is still in beta version and w
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
+   - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Previews](#previews)
-     - [Screenshots](#screenshots)
+   - [Screenshots](#screenshots)
 4. [Credits](#credits)
 5. [Special Thanks](#special-thanks)
 6. [License](#license)
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 1. XAMPP 7.2.6
 
@@ -36,9 +35,7 @@ Web app for create survey based on location, this is still in beta version and w
 1. Type ```http://localhost/map-survey``` in your browser url field (I recommended you to use Mozilla Firefox).
 2. You will take automatically to [main page](http://localhost/map-survey) of app.
 
-### Previews
-
-#### Screenshots
+### Screenshots
 
 ![Map Survey Screenshot](https://i1.wp.com/justanaivedreamer.files.wordpress.com/2018/07/screenshot_2018-07-26-map-survey-app.png?ssl=1&w=450)
 
