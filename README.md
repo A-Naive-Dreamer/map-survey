@@ -41,7 +41,7 @@ Web app for create survey based on location, this is still in beta version and w
 
 ## Credits
 
-1. [A Naive Dreamer](https://github.com/A-Naive-Dreamer)
+1. [Atallabela Yosua](https://github.com/A-Naive-Dreamer)
 
 ## Special Thanks
 
